@@ -1,4 +1,4 @@
-export default cardsData = [
+const cardsData = [
   {
     title: "Card1",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in gravida ligula.",
@@ -20,3 +20,5 @@ export default cardsData = [
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae magna semper, dignissim urna id.",
   },
 ];
+
+export default cardsData;

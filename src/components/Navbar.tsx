@@ -42,15 +42,15 @@ const Navbar = () => {
           navActive ? "w-80" : "w-0"
         } z-32`}>
         <div
-          className={`flex flex-row h-[40px] ${
+          className={`flex flex-row ${
             navActive ? "max-w-[375px]" : "w-0"
-          }  px-4 py-8 mb-4 border-b border-slate-50`}>
-          <div className="flex justify-between h-[30px] w-full mb-6">
-            <div className="mb-2">
+          }  px-4 pt-6 border-b border-slate-50`}>
+          <div className="flex justify-between w-full mb-4">
+            <div>
               <h1 className="text-xl">Menu</h1>
             </div>
 
-            <div className="mb-2" onClick={navActiveHandler}>
+            <div onClick={navActiveHandler}>
               <AiOutlineClose className="cursor-pointer text-lg text-black" />
             </div>
           </div>
