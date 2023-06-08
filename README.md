@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Demo webdesign
+
+This was a design task which I got while interviewing for skilzen as frontend developer intern. It was pretty challenging to code in given time.
+
+
+## Preview
+
+### Live Preview
+[Live Preview](https://demo-webdesign-imb5h2pkq-amolshelke2.vercel.app/)
+
+
 
 ## Getting Started
 
