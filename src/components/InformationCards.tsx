@@ -9,7 +9,7 @@ const InformationCards = () => {
         <div
           className="h-[250px] w-[300px] xl:w-[380px] bg-slate-100 shadow-sm shadow-[#C3A9FF] mb-2 rounded-sm md:mr-2 gap-4"
           key={Math.random()}>
-          <h1 className="bg-[#3F3F3F] text-white text-xl p-2 mb-2">
+          <h1 className="bg-[#3F3F3F] text-white text-xl p-2 mb-2 uppercase">
             {card.title}
           </h1>
           <p>{card.text}</p>
