@@ -1,7 +1,11 @@
-# Demo webdesign
+# Demo web design
 
-This was a design task which I got while interviewing for skilzen as frontend developer intern. It was pretty challenging to code in given time.
+This was a design task which I got while interviewing for Skilzen as a frontend developer intern. It was challenging to code in a given time.
 
+## Technologies used
+- Next.js
+- TypeScript
+- TailwindCSS
 
 ## Preview
 
