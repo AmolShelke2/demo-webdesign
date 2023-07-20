@@ -15,9 +15,6 @@ This was a design task which I got while interviewing for Skilzen as a frontend 
 ### Screenshot
 ![demo-webdesign-imb5h2pkq-amolshelke2 vercel app_](https://github.com/AmolShelke2/demo-webdesign/assets/95171638/1bc85477-c98a-49db-9eb8-b6281a7cbaf4)
 
-
-
-
 ## Getting Started
 
 First, run the development server:
@@ -27,7 +24,7 @@ npm run dev
 # or
 yarn dev
 # or
-pnpm dev
+npm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
